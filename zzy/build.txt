@@ -1,1 +1,5 @@
 1.项目必须fork出来进行编译构建，否则不会成功
+2.步骤
+pnpm install
+pnpm run build
+pnpm dsh web
